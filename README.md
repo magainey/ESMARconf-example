@@ -1,2 +1,2 @@
 # ESMARconf-example
-Test
+This is a README file.
